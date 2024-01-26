@@ -6,7 +6,7 @@ export const HeroSection = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12">
             <div className="col-span-7 place-self-center text-center sm:text-left">
                 <h1 className="text-white text-center mb-5 text-4xl sm:text-5xl lg:text-7xl font-extrabold ">
-                    Hello, I'm  
+                    Hello, I`'`m  
                     
                     <span className = "text-transparent bg-clip-text bg-gradient-to-br from-slate-200 via-slate-500 to-slate-700"> 
                         {" "}Peter 

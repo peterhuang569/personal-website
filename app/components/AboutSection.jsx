@@ -13,7 +13,7 @@ const AboutSection = () => {
                     About Me
                 </h2>
                 <p className = "text-center text-base lg:text-2xl text-white mx-6"> 
-                I'm currently navigating the exciting landscape of my second year as a Computer Science student. My journey through my degree has ignited a fascination for Fullstack Development, both the front-end and back-end intricacies of web applications.
+                I`'`m currently navigating the exciting landscape of my second year as a Computer Science student. My journey through my degree has ignited a fascination for Fullstack Development, both the front-end and back-end intricacies of web applications.
                 </p>
 
                 <div className = "flex justify-center mt-8">
